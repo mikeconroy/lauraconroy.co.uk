@@ -6,9 +6,32 @@ active: bio
 header-img: "img/about-bg.jpg"
 ---
 
-<div>
-    <img src="/lauraconroy.co.uk/img/me/me1.webp">
-    <img src="/lauraconroy.co.uk/img/me/me2.webp">
+<style>
+    * {
+      box-sizing: border-box;
+    }
+    
+    .column {
+      float: left;
+      width: 33.33%;
+      padding: 5px;
+    }
+    
+    /* Clearfix (clear floats) */
+    .row::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+</style>
+
+<div class="row">
+    <div class="column">
+        <img src="/lauraconroy.co.uk/img/me/me1.webp" style="width:100%">
+    </div>
+    <div class="column">
+        <img src="/lauraconroy.co.uk/img/me/me2.webp" style="width:100%">
+    </div>
 </div>
 <br>
 <br>
