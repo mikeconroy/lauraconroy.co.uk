@@ -1,0 +1,3 @@
+Loop through files in directory and convert to Webp format.
+
+for file in *.jpg; do cwebp $file -m 6 -q 80 -o ${file%.*}.webp; done
