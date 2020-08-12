@@ -1,3 +1,5 @@
 Loop through files in directory and convert to Webp format.
 
 for file in *.jpg; do cwebp $file -m 6 -q 80 -o ${file%.*}.webp; done
+
+https://www.aleksandrhovhannisyan.com/blog/dev/improve-page-load-speed-in-jekyll-using-the-webp-image-format/#:~:text=Use%20a%20plugin,files%20under%20your%20assets%20folder.
