@@ -14,4 +14,4 @@ Convert all files in a dir from PNG to JPG
 mogrify -format jpg *.png
 
 Compress (80%) & Resize (1920) JPG images
-mogrify -quality 80 -resize 1920 1.jpg 
+mogrify -quality 80 -resize 1920 *.jpg 
