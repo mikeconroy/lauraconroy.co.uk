@@ -6,7 +6,7 @@ active: "journal"
 image:
   feature: "1.jpeg."
 date: "2020-09-01"
-header-img: "2.jpeg"
+header-img: "img/postcover/2.jpeg"
 comments: "false"
 published: true
 gallery1:
