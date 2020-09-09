@@ -4,7 +4,7 @@ title: "First Blog Post"
 subtitle: "Introducing Myself and My Photography Journey"
 active: "journal"
 image:
-  feature: "1.jpeg."
+  feature: "1.jpeg"
 date: "2020-09-01"
 header-img: "img/banners/2.jpeg"
 comments: "false"
