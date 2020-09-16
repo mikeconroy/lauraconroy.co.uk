@@ -2,8 +2,8 @@
 title: Laura Conroy Photography
 email: lauraconroy22@gmail.com
 description: "Photography"
-url: "https://mikecon94.github.io"
-baseurl: "/lauraconroy.co.uk"
+url: "https://lauraconroy.co.uk"
+baseurl: "/"
 facebook_username: lauraconroyphotographer
 instagram_username: lauraconroyphotography
 share: true
@@ -28,9 +28,9 @@ owner:
 
 # Internal nav
 nav:
-  - GALLERY: "https://mikecon94.github.io/lauraconroy.co.uk/gallery/"  
-  - JOURNAL: "https://mikecon94.github.io/lauraconroy.co.uk/journal/"
-  - BIO: "https://mikecon94.github.io/lauraconroy.co.uk/bio/"
+  - GALLERY: "https://lauraconroy.co.uk/gallery/"  
+  - JOURNAL: "https://lauraconroy.co.uk/journal/"
+  - BIO: "https://lauraconroy.co.uk/bio/"
 
 # All translation keys
 translations:
