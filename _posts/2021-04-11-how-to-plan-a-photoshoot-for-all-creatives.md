@@ -8,9 +8,9 @@ header-img: "img/banners/2.jpeg"
 comments: "false"
 published: true
 gallery1:
-  - image_path: /img/blog/how-to-plan-a-photoshoot-for-all-creatives?/1.jpg
+  - image_path: /img/blog/how-to-plan-a-photoshoot-for-all-creatives/1.jpg
 gallery2:
-  - image_path: /img/blog/how-to-plan-a-photoshoot-for-all-creatives?/2.jpg
+  - image_path: /img/blog/how-to-plan-a-photoshoot-for-all-creatives/2.jpg
 ---
 
 Welcome back to my blogs! Are you wanting to create a photoshoot but don't know where to start? This blog can help as I give details into planning a shoot and making your ideas become a reality. You may be a photographer, model, stylist or a make up artist but these should help. Enjoy. 
